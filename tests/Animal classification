@@ -1,0 +1,13 @@
+class Dog : 
+def_init_(self, color, eye_color, height, length, weight):
+self.color = color 
+self.height = height
+self.length = length 
+self.weight = weight 
+self.eye_color = eye_color 
+
+def sit (self): 
+print ("the dog sits")
+
+def sit (self): 
+print ("the dog sits")
